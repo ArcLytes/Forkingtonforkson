@@ -6469,3 +6469,10 @@ Entries:
   id: 7237
   time: '2026-09-14T02:24:23.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1567
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: Perdition contravend no longer has TC in it.
+  id: 7238
+  time: '2026-09-14T02:32:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1571
