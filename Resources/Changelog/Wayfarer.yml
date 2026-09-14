@@ -6436,3 +6436,18 @@ Entries:
   id: 7234
   time: '2026-09-14T02:12:11.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1557
+- author: lucentlavender
+  changes:
+    - type: Add
+      message: Library console, which can be used to save books across rounds.
+    - type: Add
+      message: Library console can be found in Dusk library
+    - type: Add
+      message: Can tag works with NSFW, and add content warnings
+    - type: Add
+      message: Can update or delete works you've uploaded
+    - type: Add
+      message: Can set works as 'Published' to have them show up as world book spawns.
+  id: 7235
+  time: '2026-09-14T02:16:05.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1560
