@@ -6498,3 +6498,10 @@ Entries:
   id: 7240
   time: '2026-09-14T02:35:57.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1573
+- author: Feathernights
+  changes:
+    - type: Fix
+      message: Renamed the Licorice Creamsicle's sprites to be less offensive.
+  id: 7241
+  time: '2026-09-14T02:40:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1568
