@@ -6429,3 +6429,10 @@ Entries:
   id: 7233
   time: '2026-09-14T02:07:34.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1523
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: white CE cloaks from Goob
+  id: 7234
+  time: '2026-09-14T02:12:11.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1557
