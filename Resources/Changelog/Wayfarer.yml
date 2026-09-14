@@ -6451,3 +6451,10 @@ Entries:
   id: 7235
   time: '2026-09-14T02:16:05.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1560
+- author: Goodfaun
+  changes:
+    - type: Tweak
+      message: IPC Snout unrestricted
+  id: 7236
+  time: '2026-09-14T02:20:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1566
