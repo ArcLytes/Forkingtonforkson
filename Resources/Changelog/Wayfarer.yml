@@ -6458,3 +6458,14 @@ Entries:
   id: 7236
   time: '2026-09-14T02:20:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1566
+- author: Feathernights
+  changes:
+    - type: Tweak
+      message: Changed the behavior of the Carnivore and Herbivore trait whitelists.
+    - type: Fix
+      message: >-
+        Fixed Certain meals being unable to be eaten by Carnivores and
+        Herbivores. Enjoy your Hot Dogs in peace, meat eaters!
+  id: 7237
+  time: '2026-09-14T02:24:23.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1567
