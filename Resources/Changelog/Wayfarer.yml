@@ -6525,3 +6525,14 @@ Entries:
   id: 7243
   time: '2026-09-15T00:52:32.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1570
+- author: Feathernights
+  changes:
+    - type: Tweak
+      message: Changed the battered food sounds to be wetter.
+    - type: Fix
+      message: >-
+        Fixed being able to make corndogs with two popsicle sticks and no
+        sausage.
+  id: 7244
+  time: '2026-09-15T00:54:37.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1575
