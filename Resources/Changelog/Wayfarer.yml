@@ -6516,3 +6516,12 @@ Entries:
   id: 7242
   time: '2026-09-14T03:01:18.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1421
+- author: Cat-With-A-Computer
+  changes:
+    - type: Add
+      message: Added more loot to hauler engineering room
+    - type: Tweak
+      message: Replaced interior walls of hauler with indestructible ones
+  id: 7243
+  time: '2026-09-15T00:52:32.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1570
